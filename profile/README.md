@@ -37,17 +37,14 @@ The potential market is significant, with nearly 300 million Africans lacking cl
 
 ## Implementation
 
-**Roadmap:** 
-
-<img src="https://github.com/BlockOasis/dataFlowDiagrams/blob/main/roadmap.png" width="250">
-
-**Protocol:** 
-
-<img src="https://github.com/BlockOasis/dataFlowDiagrams/blob/main/protocol.png" width="250">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/BlockOasis/dataFlowDiagrams/blob/main/roadmap.png" style="width: 49%; max-width: 100%;" alt="Roadmap">
+    <img src="https://github.com/BlockOasis/dataFlowDiagrams/blob/main/protocol.png" style="width: 49%; max-width: 100%;" alt="Protocol">
+</div>
 
 **Context-Level Data Flow Diagram:**
 
-<img src="https://github.com/BlockOasis/dataFlowDiagrams/blob/main/context-level-data-flow-diagram.svg" width="250">
+<img src="https://github.com/BlockOasis/dataFlowDiagrams/blob/main/context-level-data-flow-diagram.svg" width="100%" alt="Context-Level Data Flow Diagram">
 
 Our application will generate provable notifications on water usage, enabling on-chain logic like penalizing overuse. This data management is performed using Cartesi Rollup DApp and IoT aggregator stakeholder nodes, ensuring transparent, secure, and efficient water management.
 
